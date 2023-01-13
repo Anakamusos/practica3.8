@@ -1,0 +1,13 @@
+h1.titulo{
+    color: brown;
+    text-align: center;
+}
+body.fondo{
+    background-color: beige;
+}
+div.cafe{
+    text-align: center;
+}
+div.contacto{
+    text-align: right;
+}

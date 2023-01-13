@@ -1,0 +1,10 @@
+h1.titulo{
+    color: rgb(107, 40, 40);
+    text-align: center;
+}
+body.color{
+    background-color: beige;
+}
+p.color{
+    color: rgb(250, 84, 84);
+}
